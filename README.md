@@ -1,3 +1,2 @@
-I'll slowly update the website until it looks somewhat reasonable. Not sure
-what I'll do with it yet but having a website seems to be what the kids are
-doing nowadays.
+I may update this later. This repo mostly exists so I have the resources
+available to set up my site if I choose to.
